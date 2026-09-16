@@ -170,7 +170,6 @@ def main() -> int:
     worker_managers = []
     for properties in worker_properties:
         result, manager = worker_manager.WorkerManager.create(properties, main_logger)
-        
         if not result or manager is None:
             main_logger.error("Failed to create worker manager")
             return -1
