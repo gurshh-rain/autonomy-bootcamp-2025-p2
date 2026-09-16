@@ -1,0 +1,5 @@
+08:59:45: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/modules/telemetry/telemetry_worker.py | telemetry_worker | 43] Logger initialized
+08:59:50: [ERROR] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/modules/telemetry/telemetry.py | run | 129] Timed out while receiving telemetry
+08:59:51: [ERROR] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/modules/telemetry/telemetry.py | run | 129] Timed out while receiving telemetry
+08:59:52: [ERROR] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/modules/telemetry/telemetry.py | run | 129] Timed out while receiving telemetry
+08:59:58: [ERROR] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/modules/telemetry/telemetry.py | run | 129] Timed out while receiving telemetry

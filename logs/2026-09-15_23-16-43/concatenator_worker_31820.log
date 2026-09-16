@@ -1,0 +1,30 @@
+23:16:44: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator_worker.py | concatenator_worker | 38] Logger initialized
+23:16:44: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:44: [INFO] Hello 3010 world!
+23:16:44: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:44: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:44: [INFO] Hello 3012 world!
+23:16:45: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:45: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:45: [INFO] Hello 3014 world!
+23:16:45: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:45: [INFO] Hello 3006 world!
+23:16:45: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:45: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:45: [INFO] Hello 3008 world!
+23:16:49: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:50: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:50: [INFO] Hello 3010 world!
+23:16:50: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:50: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:50: [INFO] Hello 3022 world!
+23:16:50: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:50: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:51: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:51: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:51: [INFO] Hello 3020 world!
+23:16:51: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:51: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:51: [INFO] Hello 3022 world!
+23:16:51: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run
+23:16:52: [DEBUG] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/multiprocess_example/concatenator/concatenator.py | run_concatenation | 33] Run

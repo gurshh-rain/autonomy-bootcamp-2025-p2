@@ -1,0 +1,302 @@
+08:59:45: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/modules/common/modules/logger/logger_main_setup.py | setup_main_logger | 62] main logger initialized
+08:59:45: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | main | 112] Connected!
+08:59:45: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 0,
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 0.0,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:45: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 500,
+            x: 0.5,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 1.0471975803375244,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:46: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 1000,
+            x: 1.0,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 3.1415927410125732,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:46: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 1500,
+            x: 1.5,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: -2.094395160675049,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:47: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 2000,
+            x: 2.0,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 0.0,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:47: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 2500,
+            x: 2.5,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 1.0471975803375244,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:48: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 3000,
+            x: 3.0,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 3.1415927410125732,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:48: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 3500,
+            x: 3.5,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: -2.094395160675049,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:49: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 4000,
+            x: 4.0,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 0.0,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:49: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 4500,
+            x: 4.5,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 1.0471975803375244,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:53: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 0,
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 0.0,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:53: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 500,
+            x: 0.3333333432674408,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 1.5707963705062866,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:54: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 1000,
+            x: 0.6666666865348816,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 3.1415927410125732,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:54: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 1500,
+            x: 1.3333333730697632,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: -1.5707963705062866,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:55: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 2000,
+            x: 1.6666666269302368,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 0.0,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:55: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 2500,
+            x: 2.3333332538604736,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 1.5707963705062866,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:56: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 3000,
+            x: 2.6666667461395264,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 3.1415927410125732,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:56: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 3500,
+            x: 3.3333332538604736,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: -1.5707963705062866,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:57: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 4000,
+            x: 3.6666667461395264,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 0.0,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
+08:59:57: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/tests/integration/test_telemetry.py | read_queue | 71] {
+            time_since_boot: 4500,
+            x: 4.333333492279053,
+            y: 0.0,
+            z: 0.0,
+            x_velocity: 1.0,
+            y_velocity: 0.0,
+            z_velocity: 0.0,
+            roll: 0.0,
+            pitch: 0.0,
+            yaw: 1.5707963705062866,
+            roll_speed: 0.0,
+            pitch_speed: 0.0,
+            yaw_speed: 3.1415927410125732
+        }
