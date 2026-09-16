@@ -2,8 +2,6 @@
 Heartbeat receiving logic.
 """
 
-import time
-
 from pymavlink import mavutil
 
 from ..common.modules.logger import logger
@@ -64,7 +62,6 @@ class HeartbeatReceiver:
         If disconnected for over a threshold number of periods,
         the connection is considered disconnected.
         """
-        start_time = time.monotonic()
         try:
             message = self.__connection.recv_match(
                 type="HEARTBEAT",
@@ -74,9 +71,6 @@ class HeartbeatReceiver:
         except (OSError, TypeError, ValueError) as exception:
             self.__logger.error(f"Failed to receive heartbeat: {exception}")
             return False, self.__state
-
-        elapsed = time.monotonic() - start_time
-        time.sleep(max(0.0, self.__heartbeat_period - elapsed))
 
         if message is not None:
             self.__state = "Connected"

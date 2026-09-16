@@ -1,7 +1,0 @@
-23:16:43: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/modules/common/modules/logger/logger_main_setup.py | setup_main_logger | 62] main logger initialized
-23:16:43: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/main_multiprocess_example.py | main | 182] Started
-23:16:45: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/main_multiprocess_example.py | main | 188] Paused
-23:16:49: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/main_multiprocess_example.py | main | 192] Resumed
-23:16:51: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/main_multiprocess_example.py | main | 199] Requested exit
-23:16:52: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/main_multiprocess_example.py | main | 205] Queues cleared
-23:16:52: [INFO] [/Users/user/Desktop/VsCode/WARG/Onboarding/autonomy-bootcamp-2025-p2/documentation/main_multiprocess_example.py | main | 211] Stopped
